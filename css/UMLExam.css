@@ -1,0 +1,37 @@
+.exam{
+    width:80%;
+    margin:auto;
+}
+
+/*试卷的方框*/
+/*多用组合，增加复用*/
+.exam-name{
+    font-weight: 800;
+    text-align: center;
+    margin-top:20px;
+}
+/*多用组合，增加复用*/
+.p20{
+    padding:10px;
+}
+.pr10{
+    padding-right:10px;
+}
+.exam-item{
+    border:1px solid #ccc;
+    margin-top:10px;
+
+}
+.exam-title{
+    background-color: #cccccc;
+}
+
+/*试卷提交按钮*/
+.calculate{
+    text-align: center;
+}
+.btn{
+    background-color: royalblue;
+    margin-top:10px;
+    margin-bottom:15px;
+}
