@@ -1,0 +1,19 @@
+.exam-beauty{
+    width:80%;
+    margin:auto;
+}
+.exam-name{
+    font-weight: 800;
+    text-align: center;
+    margin-top:20px;
+    margin-bottom: 10px;
+}
+
+
+.calculate{
+    text-align: center;
+}
+.btn{
+    margin-top:10px;
+    margin-bottom:15px;
+}
